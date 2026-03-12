@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "PROBLEM",
+  "base_artist": "Kep1er",
+  "createdAt": "2026-03-12T08:30:15.861986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drinkin' Problem",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/01_Drinkin'_Problem_Midland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Houston, We Got a Problem",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/02_Houston,_We_Got_a_Problem_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'd Like To Have A Problem Like That",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/03_I'd_Like_To_Have_A_Problem_Like_That_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Problem",
+      "artist": "Dylan Schneider",
+      "has_synced": false,
+      "path": "select/04_No_Problem_Dylan_Schneider.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Same Beer Different Problem",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/05_Same_Beer_Different_Problem_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Somebody’s Problem",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/06_Somebody’s_Problem_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thinkin' Problem",
+      "artist": "David Ball",
+      "has_synced": true,
+      "path": "select/07_Thinkin'_Problem_David_Ball.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thinkin' Problem (Album Version)",
+      "artist": "David Ball",
+      "has_synced": true,
+      "path": "select/08_Thinkin'_Problem_(Album_Version)_David_Ball.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "U Got a Problem?",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/09_U_Got_a_Problem_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Poets Problem",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/10_Poets_Problem_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Poets Problem",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/11_Poets_Problem_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Problem",
+      "artist": "Ken",
+      "has_synced": false,
+      "path": "select/12_Problem_Ken.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Problem (Bonus Track)",
+      "artist": "Young Man",
+      "has_synced": false,
+      "path": "select/13_Problem_(Bonus_Track)_Young_Man.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Problem",
+      "artist": "Young Man",
+      "has_synced": false,
+      "path": "select/14_Problem_Young_Man.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Problem",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/15_Problem_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gotta Get A Problem",
+      "artist": "Mates of State",
+      "has_synced": false,
+      "path": "select/16_Gotta_Get_A_Problem_Mates_of_State.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Problem With the Sun",
+      "artist": "Nicolas Jaar",
+      "has_synced": false,
+      "path": "select/17_Problem_With_the_Sun_Nicolas_Jaar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PROBLEM",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_PROBLEM_Kep1er.txt"
+    }
+  ]
+}
